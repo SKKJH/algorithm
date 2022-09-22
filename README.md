@@ -6,12 +6,13 @@
 
 
 ### 알고리즘의 특징
-*  유한성(Finiteness) : 한정된 수의 작업 후, 반드시 유한한 시간 내에 종료되어야 한다.  
-*  명확성(Definiteness/Precison) : 각 단계는 명확해야 하고 모호하지 않아야 한다.  
-*  유효성(Effectiveness) : 모든 명령들은 컴퓨터에서 실행 가능해야 한다.  
-*  결정성(Determinism) : 매 단계 마다, 입력과 바로 전 단계의 결과에 따라 유일하게 결정된다.  
-*  일반성(Generality) : 특정 입력값들만 아니라 요구되는 모든 입력에도 적용 가능해야 한다.  
-*  효율성(Efficiency) : 알고리즘은 가능한 효율적이어야 한다.
+*  Input : input을 받아야 한다. 
+*  output : Output을 생산해야 한다.
+*  Generality : 특정 입력값들만 아니라 요구되는 모든 입력에도 적용 가능해야 한다.  
+*  Order of operations : 수행할 순서가 정확해야 한다.
+*  Precision : 각 단계는 명확해야 하고 모호하지 않아야 한다.  
+*  Finiteness : 한정된 수의 작업 후, 반드시 유한한 시간 내에 종료되어야 한다.
+*  Correctness : 알고리즘을 통해 만들어진 결과는 정확해야 한다.
 
 <br><br/>
 ### 알고리즘의 계산 복잡도(Computational Complexity of Algorithm)
